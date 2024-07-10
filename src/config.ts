@@ -21,7 +21,7 @@ export const siteConfig: SiteConfig = {
   },
   favicon: [
     {
-      src: '/src/assets/images/avatar.png'
+      src: '/favicon/avatar.png'
     }
     // Leave this array empty to use the default favicon
     // {
