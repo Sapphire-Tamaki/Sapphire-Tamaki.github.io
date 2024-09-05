@@ -2,13 +2,13 @@
 title: Unity よくある質問(Avatar)
 published: 2024-04-15
 description: 'Unityでアバター改変をする時にたまにある問題の解決法（WIP）'
-image: './chiffon-2-0.png'
+image: './chiffon-1.png'
 tags: [Avatar, Shader]
 category: 'Unity'
 draft: false
 ---
 :::note[更新]
-2024年8月12日
+2024年9月5日
 :::
 
 ## 目次
@@ -54,9 +54,9 @@ liltoonではライティング設定で明るさ下限を0.1以上にすると�
 
 ![Boundsを正しく設定する](./unity-bounds.png)
 
-Boundsが正しく設定されていない可能性があります。Skinned Mesh Renderer (SMR)のBoundsのExtentを全部大きくする（ここでは0.7）と修正されます。
+Boundsが正しく設定されていない可能性があります。Boundsとは、衣装などがレンダリングされる範囲のことです（白い線で囲まれます）。もしここの範囲を見ていないという判定になったら、モデルがレンダリングされなくなります。Skinned Mesh Renderer (SMR)のBoundsのExtentを全部大きくする（ここでは0.7）と修正されます。
 
-場合によって、0.7で大きすぎたり小さすぎたりすることがあります。Extentのx, y, z全てアバターの高さより高い数値にすることが重要です。
+場合によって、0.7で大きすぎたり小さすぎたりすることがあります。Extentのx, y, z全て白い箱線がアバターの高さより長くなるような数値にすることがポイントです。
 
 ## FX・アニメーション
 
@@ -71,6 +71,8 @@ Boundsが正しく設定されていない可能性があります。Skinned Mes
 ![Av3Managerのメニュー](./unity-av3mmenu.png)
 
 ちなみにWrite Defaultsを確認するには便利なツールがあります。VCCでAvatar3Managerというツールをプロジェクトに導入し、アバターを上の欄にDrag&DropするとWrite Defaultsがオフなのか確認できます。同じAnimator Controller（例えばFX）のWrite Defaultsが全部同じにすると直ります。
+
+> MAで導入されるギミックのなかで、Write Default自動調整が適用されていない場合では同じような問題が起こり得るため、導入時にチェックする必要があります。
 
 > Av3Managerは他のAnimator ControllerのWrite DefaultsがFXに違っても警告が出ますがFXの中で全部同じにすれば十分です。
 
