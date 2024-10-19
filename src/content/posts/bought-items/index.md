@@ -50,6 +50,9 @@ https://booth.pm/ja/items/3681787
 メリノちゃん
 https://booth.pm/ja/items/2351859
 
+しなのちゃん
+https://booth.pm/ja/items/6106863
+
 ### その他
 
 舞夜ちゃん
@@ -124,6 +127,9 @@ Enjoy Maker
 https://booth.pm/ja/items/4566346
 
 ### なぎ亭
+
+ねこちるぱーかー（フルセット）
+https://booth.pm/ja/items/6055417
 
 ゆらめき夏恋（フルセット）
 https://booth.pm/ja/items/5960128
