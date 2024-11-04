@@ -2,7 +2,7 @@
 title: Unity よくある質問(Avatar)
 published: 2024-04-15
 description: 'Unityでアバター改変をする時にたまにある問題の解決法（WIP）'
-image: './chiffon-1.png'
+image: './karin-1.png'
 tags: [Avatar, Shader]
 category: 'Unity'
 draft: false
