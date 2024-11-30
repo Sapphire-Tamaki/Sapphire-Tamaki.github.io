@@ -8,7 +8,7 @@ category: 'Avatar'
 draft: false
 ---
 :::note[更新]
-2024年9月5日
+2024年11月30日
 :::
 
 ## Table of Contents
@@ -54,6 +54,9 @@ https://booth.pm/ja/items/2351859
 https://booth.pm/ja/items/6106863
 
 ### その他
+
+マヌカちゃん
+https://booth.pm/ja/items/5058077
 
 舞夜ちゃん
 https://booth.pm/ja/items/3390957
@@ -127,6 +130,8 @@ Enjoy Maker
 https://booth.pm/ja/items/4566346
 
 ### なぎ亭
+ステラ・ルミエール（フルセット）
+https://booth.pm/ja/items/6237445
 
 ねこちるぱーかー（フルセット）
 https://booth.pm/ja/items/6055417
@@ -145,6 +150,9 @@ https://booth.pm/ja/items/5824072
 和セーラー（限定バージョン：こまどアバター専用）
 
 ### その他
+
+しえすたわーくす　あーけーど・えくすぷろーら（フルセット）
+https://booth.pm/ja/items/6256246
 
 餅亭　シュガーワンピ（フルセット）
 https://booth.pm/ja/items/5594480
