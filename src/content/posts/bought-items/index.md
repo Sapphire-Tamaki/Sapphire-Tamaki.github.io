@@ -8,7 +8,7 @@ category: 'Avatar'
 draft: false
 ---
 :::note[更新]
-2024年11月30日
+2025年1月15日
 :::
 
 ## Table of Contents
@@ -26,6 +26,9 @@ draft: false
 
 ﾐﾙｸﾁｬ!
 https://booth.pm/ja/items/2953391
+
+ショコラちゃん
+https://booth.pm/ja/items/6405390
 
 カリンちゃん
 https://booth.pm/ja/items/3470989
